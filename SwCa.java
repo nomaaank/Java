@@ -12,14 +12,14 @@ public class SwCa {
                 case 903:
                     System.out.println("Noman");
                     break;
-                case 143:
-                    System.out.println("Arpita");
+                case 100:
+                    System.out.println("NoOne");
                     break;
                 case 802:
                     System.out.println("Saad");
                     break;
-                case 817:
-                    System.out.println("Nawrose");
+                case 200:
+                    System.out.println("NoBody");
                     break;
                 default:
                     System.out.println("Invalid ID");
